@@ -110,7 +110,7 @@
         text-align: center;
         font-size: 27px;
         line-height: 1.5em;
-        margin-top: 8vh;
+        margin-top: 5vh;
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: #fff;
     }
@@ -120,7 +120,7 @@
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 23px;
         /* text-align:center; */
-        margin-top: 5vh;
+        margin-top: 3vh;
         color: #fff;
     }
 
@@ -130,7 +130,7 @@
         font-size: 23px;
         font-family: 'Times New Roman', Times, serif;
         line-height: 1.8em;
-        margin-top: 4vh;
+        margin-top:1vh;
         color: #fff;
     }
 
@@ -139,7 +139,7 @@
         font-size: 23px;
         font-family: Georgia, 'Times New Roman', Times, serif;
         line-height: 1.8em;
-        margin-top: 3vh;
+        margin-top: 1vh;
         color: #fff;
     }
 
@@ -277,6 +277,10 @@
         letter-spacing: 2px; */
             /* background-color:rgb(37, 173, 214) ; */
         }
+        a {
+            color: #fff;
+            text-decoration: none;
+        }
 
 
         #hd-3 {
@@ -354,6 +358,7 @@
             color: #fff;
             line-height: 1.5em;
             margin-top: 1vh;
+            margin-left: 2vw;
         }
 
         #mn-4 {
@@ -363,6 +368,7 @@
             line-height: 1.8em;
             margin-top: 1vh;
             color: #fff;
+            margin-left: 2vw;
         }
 
         #mn-5 {
@@ -372,6 +378,7 @@
             line-height: 1.8em;
             margin-top: 1vh;
             color: #fff;
+            margin-left: 2vw;
         }
 
         /* --------------------------------------------footer----------------------------------------- */
